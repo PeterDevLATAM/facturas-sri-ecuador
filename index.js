@@ -6,7 +6,7 @@ const resultData = [];
 
 const checkIfThere = (valueToCheck) => {
   if (valueToCheck) {
-    return valueToCheck;
+    return valueToCheck[0];
   } else {
     return "NO DATA";
   }
@@ -68,4 +68,4 @@ files.map((file) => {
 setTimeout(() => {
   console.table(resultData);
   fs.writeFileSync("data.xlsx", json2xls(resultData), "binary");
-}, 1000);
+}, 1000); 
