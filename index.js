@@ -12,7 +12,8 @@ files.map((file) => {
     //Parse data to JSON
     parseString(data, function (err, result) {
       // Extract inner XML data
-      parseString(result.autorizacion.comprobante, function (err, result) {
+      try {
+        parseString(result.autorizacion.comprobante, function (err, result) {
         const fechaEmision = result.factura.infoFactura[0].fechaEmision[0];
         let dirEstablecimiento = "NO DIR";
         if (result.factura.infoFactura[0].dirEstablecimiento) {
@@ -37,7 +38,11 @@ files.map((file) => {
         );
         const data = { fechaEmision, dirEstablecimiento, conIva, sinIva };
         resultData.push(data);
-      });
+      });  
+      } catch (error) {
+          console.log(`File ${file} not recognized`)
+      }
+      
     });
   });
 });
