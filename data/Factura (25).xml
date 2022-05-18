@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202201179195734200120010210000565891234567818</numeroAutorizacion>
+<fechaAutorizacion>2022-04-18T00:13:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura version="1.1.0" id="comprobante">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PAPIZZEC SA</razonSocial>
+    <nombreComercial>PAPAJOHNS</nombreComercial>
+    <ruc>1791957342001</ruc>
+    <claveAcceso>1704202201179195734200120010210000565891234567818</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>021</ptoEmi>
+    <secuencial>000056589</secuencial>
+    <dirMatriz>NACIONES UNIDAS E10-50 Y 6 DE DICIEMBRE</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>17/04/2022</fechaEmision>
+    <dirEstablecimiento>AV. NACIONES UNIDAS E10-50 Y AV 6 DE DICIEMBRE</dirEstablecimiento>
+    <contribuyenteEspecial>00047</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ANABEL TAMAYO</razonSocialComprador>
+    <identificacionComprador>1761071404001</identificacionComprador>
+    <totalSinImpuestos>33.7500</totalSinImpuestos>
+    <totalDescuento>7.1400</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>8</codigoPorcentaje>
+        <baseImponible>33.7500</baseImponible>
+        <tarifa>8</tarifa>
+        <valor>2.7000</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>36.4400</importeTotal>
+    <moneda>Dolar</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>36.4400</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>2141000978</codigoPrincipal>
+      <codigoAuxiliar>2141000978</codigoAuxiliar>
+      <descripcion>Coca Cola</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.5200</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>1.5200</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>1.5200</baseImponible>
+          <valor>0.1200</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2141001012</codigoPrincipal>
+      <codigoAuxiliar>2141001012</codigoAuxiliar>
+      <descripcion>Fuze Tea</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>1.5200</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>3.0400</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>3.0400</baseImponible>
+          <valor>0.2400</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2141000374</codigoPrincipal>
+      <codigoAuxiliar>2141000374</codigoAuxiliar>
+      <descripcion>MR 14" The Works</descripcion>
+      <cantidad>0.50</cantidad>
+      <precioUnitario>19.2000</precioUnitario>
+      <descuento>1.9700</descuento>
+      <precioTotalSinImpuesto>7.6300</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>7.6300</baseImponible>
+          <valor>0.6100</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2141001033</codigoPrincipal>
+      <codigoAuxiliar>2141001033</codigoAuxiliar>
+      <descripcion>MR 14" Boom de Jamon</descripcion>
+      <cantidad>0.50</cantidad>
+      <precioUnitario>15.6200</precioUnitario>
+      <descuento>1.6000</descuento>
+      <precioTotalSinImpuesto>6.2100</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>6.2100</baseImponible>
+          <valor>0.5000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2141000377</codigoPrincipal>
+      <codigoAuxiliar>2141000377</codigoAuxiliar>
+      <descripcion>MR 14" Vegetariana</descripcion>
+      <cantidad>0.50</cantidad>
+      <precioUnitario>19.1800</precioUnitario>
+      <descuento>1.9700</descuento>
+      <precioTotalSinImpuesto>7.6200</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>7.6200</baseImponible>
+          <valor>0.6100</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2141000378</codigoPrincipal>
+      <codigoAuxiliar>2141000378</codigoAuxiliar>
+      <descripcion>MR 14" 6 Quesos</descripcion>
+      <cantidad>0.50</cantidad>
+      <precioUnitario>15.6200</precioUnitario>
+      <descuento>1.6000</descuento>
+      <precioTotalSinImpuesto>6.2100</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>6.2100</baseImponible>
+          <valor>0.5000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2141000984</codigoPrincipal>
+      <codigoAuxiliar>2141000984</codigoAuxiliar>
+      <descripcion>Coca Sin Azucar</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.5200</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>1.5200</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>1.5200</baseImponible>
+          <valor>0.1200</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CorreoCliente">sincorreo@sincorreo.com</campoAdicional>
+    <campoAdicional nombre="CAJERO">STEFANY MICHELLE</campoAdicional>
+    <campoAdicional nombre="TRANSACCION">59121</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">Efectivo:36.44</campoAdicional>
+    <campoAdicional nombre="GRATIFICACION">0</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-ae06d06a-3087-4c72-a36d-17510419f964"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-81e70582-a334-4b15-971f-8ba4a508512e" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>Mc/ZKp+Zk1skoU/8rfwsNW/LEWrZyI87bVGFT//o6dg=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-ae06d06a-3087-4c72-a36d-17510419f964"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>PeHv/uYR69PZ7a7UL6zkyRcJSeyciPU7JJ2LYBSDs6k=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-ae06d06a-3087-4c72-a36d-17510419f964"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>p0oaUpUI2tjWQo51chGQmIkY1WtUGVjs69HC37kknv8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-ae06d06a-3087-4c72-a36d-17510419f964">MvUVbmXB6Dz2FKW6wtzdQZ85pCM8b6VyCCgBlaTSht5LC6kQkQWVkee3wfjmu7WU8rGqcBZFkRU5s1PH661+Lm1RWg21SA9A5TlCRMZ17d5upo0RnAkIDjpVUSRuJdg1roHbJIQwcMrycsCD1rFpUBQccfQOyXFJ88F7g0mqZFy/cofsrWl0YDCKZ0i+Epg1PNwOLxS3MEau9IA7XKG539Hg+ici+45hGAYU/xedL1sa+tf8LYm5B0WokAMjYFeZ4ag5LqcYwlbTtG66KiG6GFXFSobfPP9itUg0FmmdOJ012ar7qxTQso75tMp0QQEb7jO/mXqfxA0opMsgqmTXeg==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-ae06d06a-3087-4c72-a36d-17510419f964"><ds:X509Data><ds:X509Certificate>MIIJ4zCCB8ugAwIBAgIEW2QaVDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDcwMjE0MzEzN1oXDTIyMDcwMjE1MDEzN1owgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDA3MzYxNjAkBgNVBAMTHU1BUklPIEFMRlJFRE8gQ09SRE9WRVogTEFMQU1BMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0RW2k7yGfNsa8Pap5Imd7tY+/wTsm4Dp4EAxsYK4WsS4q4TDJCAh6KFS26+Uk1pUxOs1GxuUAeCtZ14sgYTFhjNuygOn1OM8NSZ2xlV1kpbUG8POSceeaTY7KAnKBMpRpSzNBuagLkRVMiQ+JGx0RAkY4EgL8yVMbp7koLFwx3tnrykre21L6Hw1wJMoxXMLzY/sW5ap8L3ipIULylBwyQd1bHTAeZT6mHRl8RLaHx5mzF/8zwdswburzYlGldxO+9akzmHEtOGOYxSu5CS67/0JKUB+7Shrwkyqnzhmdy8tTQ7s/E6jvKwguo928dChruCpfXSL/m12Ngn958+Z1wIDAQABo4IFCzCCBQcwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAbBgorBgEEAYKoOwMKBA0TC1BBUElaWkVDIFNBMB0GCisGAQQBgqg7AwsEDxMNMTc5MTk1NzM0MjAwMTAaBgorBgEEAYKoOwMBBAwTCjE3MDQ3Mzk1MTMwHQYKKwYBBAGCqDsDAgQPEw1NQVJJTyBBTEZSRURPMBgGCisGAQQBgqg7AwMEChMIQ09SRE9WRVowFgYKKwYBBAGCqDsDBAQIEwZMQUxBTUEwHwYKKwYBBAGCqDsDBQQREw9HRVJFTlRFIEdFTkVSQUwwJQYKKwYBBAGCqDsDBwQXExVOQUNJT05FUyBVTklEQVMgRTEwNTAwGQYKKwYBBAGCqDsDCAQLEwkwMjIyNTAwNDQwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCUGA1UdEQQeMByBGm1jb3Jkb3ZlekBwYXBham9obnMuY29tLmVjMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTAwMCxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDEwMDAwKwYDVR0QBCQwIoAPMjAyMDA3MDIxNDMxMzdagQ8yMDIyMDcwMjE1MDEzN1owHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFEMcSBUXrUKIFS9b/mVBM1xYcKEiMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAEXsUfZiybMy7zb686CNbInIMuxhlnnBFHm1CdogajH3nDz9OyebBWaa9leP97EboRLziENFjDrzjubwPFOnP+5sQMVEVTYmf/Ct2++3dndxGq7sSjfupSAy9kKB7pUM1myhJdJysMi4qeAP1PT4EnuiY/x+ymtAqxQ0fUPnBPBwvfhwgP6WZa5eledX7dk0nRAL4eqDWpvoVTA4WZOcIN5NZQgmZwXMXb9kZ0je8T8/cTHmTKEmFTIFRBiKdbxC9RUxLLjnzWF2R3SjUln9P0czGCkTAuNXW3/HEX0bBPVc0je1ax4yTS6y+XuZXH3r3LpBeVjqrJo2B6Br0BGcDWOPWWn1jqgKyyC2G8rhpxIUbVEykmzqJ0g7Zdz7qnR2Lf8vLUbKwgL6ZK1RMcA6mqd4f8w9XhpTNy1eN7J75lbXagY4ifemw2os+sVykcQfXkQ6UOjq6pa/1QhinbCW1MzPbzKH2UHqqPfsCJ2wgWfJynJnjOab+4vp53sghiN/DshBH0IkCu2r0pVux3r45bKZxTDx0BMys29gnrBTWLEbztfFg0+HBLgBvPNkyhsJQRjAHEsY0GJMOFb5L2JA3IKb6eaaq6xh4UlS1QdQ/lq/WLO81dI0PBs7h8HveSiZWc0Siwi954dNuR3vSR9YBrcm3tFmk94pYQb3hrcXSOqM</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>0RW2k7yGfNsa8Pap5Imd7tY+/wTsm4Dp4EAxsYK4WsS4q4TDJCAh6KFS26+Uk1pUxOs1GxuUAeCtZ14sgYTFhjNuygOn1OM8NSZ2xlV1kpbUG8POSceeaTY7KAnKBMpRpSzNBuagLkRVMiQ+JGx0RAkY4EgL8yVMbp7koLFwx3tnrykre21L6Hw1wJMoxXMLzY/sW5ap8L3ipIULylBwyQd1bHTAeZT6mHRl8RLaHx5mzF/8zwdswburzYlGldxO+9akzmHEtOGOYxSu5CS67/0JKUB+7Shrwkyqnzhmdy8tTQ7s/E6jvKwguo928dChruCpfXSL/m12Ngn958+Z1w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-ecb438bb-73af-4ed5-95ab-2e559a7c8ac2"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-ea939272-e3dd-49c8-a130-5960aca39498" Target="#Signature-ae06d06a-3087-4c72-a36d-17510419f964"><xades:SignedProperties Id="SignedProperties-Signature-ae06d06a-3087-4c72-a36d-17510419f964"><xades:SignedSignatureProperties><xades:SigningTime>2022-04-18T00:13:56-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>o7sb5K0x1F0JVRmNwyCAg3525596voo6JzkMJWNW0jo=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533286996</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-81e70582-a334-4b15-971f-8ba4a508512e"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

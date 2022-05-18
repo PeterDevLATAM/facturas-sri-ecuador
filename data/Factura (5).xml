@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202201019007200200120209080003008845457317211</numeroAutorizacion>
+<fechaAutorizacion>2022-04-03T16:40:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version = '1.0' encoding = 'UTF-8'?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GERARDO ORTIZ E HIJOS CIA LTDA</razonSocial>
+<nombreComercial>GERARDO ORTIZ E HIJOS CIA LTDA</nombreComercial>
+<ruc>0190072002001</ruc>
+<claveAcceso>0304202201019007200200120209080003008845457317211</claveAcceso>
+<codDoc>01</codDoc>
+<estab>020</estab>
+<ptoEmi>908</ptoEmi>
+<secuencial>000300884</secuencial>
+<dirMatriz>AV. CARLOS JULIO AROSEMENA S/N</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>03/04/2022</fechaEmision>
+<dirEstablecimiento>SYLA SEYMUR Y TOMAS DE BERLANGA</dirEstablecimiento>
+<contribuyenteEspecial>3517</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>ANABEL TAMAYO</razonSocialComprador>
+<identificacionComprador>1761071404</identificacionComprador>
+<direccionComprador>INAQUITO</direccionComprador>
+<totalSinImpuestos>464.84</totalSinImpuestos>
+<totalDescuento>19.02</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>62.96</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>401.88</baseImponible>
+<valor>48.23</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>513.07</importeTotal>
+<moneda>DOLAR AMERICANO</moneda>
+<pagos>
+<pago>
+<formaPago>16</formaPago>
+<total>513.07</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>X9608IS</codigoPrincipal>
+<descripcion>PAPA FRITA CREMA Y CEBOLLA RUFFLES 260G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.1566</precioUnitario>
+<descuento>0.43</descuento>
+<precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>1.73</baseImponible>
+<valor>0.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY20025</codigoPrincipal>
+<descripcion>TOMATE DE 2DA BANDEJA HORTANA</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.6714</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.62</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.62</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY2003S</codigoPrincipal>
+<descripcion>LECHUGA SALAD BELMONDO 200G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.7143</precioUnitario>
+<descuento>0.02</descuento>
+<precioTotalSinImpuesto>0.69</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.69</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9608Y6</codigoPrincipal>
+<descripcion>YOGUR BEBIBLE MORA CHIVERIA 900G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.4663</precioUnitario>
+<descuento>0.04</descuento>
+<precioTotalSinImpuesto>1.42</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.42</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9608Y5</codigoPrincipal>
+<descripcion>YOGUR BEBIBLE FRUTILLA CHIVERIA 900G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.4663</precioUnitario>
+<descuento>0.04</descuento>
+<precioTotalSinImpuesto>1.42</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.42</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY8L08O</codigoPrincipal>
+<descripcion>QUESO CUMANDA LONCHERO LA FINCA 500G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>5.2920</precioUnitario>
+<descuento>0.16</descuento>
+<precioTotalSinImpuesto>5.13</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>5.13</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8L082G</codigoPrincipal>
+<descripcion>QUESO CREMA TONI 600G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>4.1532</precioUnitario>
+<descuento>0.12</descuento>
+<precioTotalSinImpuesto>4.03</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>4.03</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5H00034</codigoPrincipal>
+<descripcion>OLLA ARROCERA NEGRA 20 TAZAS 37542</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>34.4610</precioUnitario>
+<descuento>2.07</descuento>
+<precioTotalSinImpuesto>66.85</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>66.85</baseImponible>
+<valor>8.02</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY30039</codigoPrincipal>
+<descripcion>AJO ESPECIAL 250G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.1429</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>1.11</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.11</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9606TI</codigoPrincipal>
+<descripcion>QUESO MADURO MOZZARELLA PIZZA LA HOLANDESA 700G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>6.9872</precioUnitario>
+<descuento>0.21</descuento>
+<precioTotalSinImpuesto>6.78</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>6.78</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9607EM</codigoPrincipal>
+<descripcion>PAN DE MOLDE BLANCO G.O 500G 20REBANADAS</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.0667</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>1.03</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.03</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY4205U</codigoPrincipal>
+<descripcion>CEBOLLAS MIX HORTILISTO 550G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.3857</precioUnitario>
+<descuento>0.07</descuento>
+<precioTotalSinImpuesto>2.31</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.31</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X90115K</codigoPrincipal>
+<descripcion>ARROZ CORAL 10LB</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>5.0000</precioUnitario>
+<descuento>0.15</descuento>
+<precioTotalSinImpuesto>4.85</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>4.85</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X89608X</codigoPrincipal>
+<descripcion>JAMON ESPECIAL FRAILES DE PIERNA X 1KG</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>5.5168</precioUnitario>
+<descuento>0.17</descuento>
+<precioTotalSinImpuesto>5.35</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>5.35</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK205J</codigoPrincipal>
+<descripcion>PIMIENTO VERDE FARM FRESH ECONOMICO 500G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.9714</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>0.94</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.94</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8960CU</codigoPrincipal>
+<descripcion>ACEITE DE OLIVA EXTRA VIGEN SNOB 1020ML</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>11.5234</precioUnitario>
+<descuento>0.35</descuento>
+<precioTotalSinImpuesto>11.18</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>11.18</baseImponible>
+<valor>1.34</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY8F41H</codigoPrincipal>
+<descripcion>PASTA BARILLA FUSILLI 500G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.2650</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>3.17</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>3.17</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9603BQ</codigoPrincipal>
+<descripcion>OREGANO HOJA EL SABOR ENVASE 16G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.5808</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.53</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.53</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X90120Y</codigoPrincipal>
+<descripcion>CULANDRO BONANZA 25G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.6250</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.58</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.58</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X838032</codigoPrincipal>
+<descripcion>SALSA CHINA ORIENTAL 200ML</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.0842</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>1.05</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>1.05</baseImponible>
+<valor>0.13</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8E800E</codigoPrincipal>
+<descripcion>PASTA TOMATE FACUNDO 800G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.8019</precioUnitario>
+<descuento>0.11</descuento>
+<precioTotalSinImpuesto>3.69</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.69</baseImponible>
+<valor>0.44</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9604ER</codigoPrincipal>
+<descripcion>CAFE SELLO ROJO 1000G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>8.3072</precioUnitario>
+<descuento>0.25</descuento>
+<precioTotalSinImpuesto>8.06</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>8.06</baseImponible>
+<valor>0.97</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY8A102</codigoPrincipal>
+<descripcion>ACEITE GIRASOL 2L</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>7.6958</precioUnitario>
+<descuento>0.23</descuento>
+<precioTotalSinImpuesto>7.46</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>7.46</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X90126A</codigoPrincipal>
+<descripcion>GRANOLA CHOCOLATE NUTS CAJA 350G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.1344</precioUnitario>
+<descuento>0.09</descuento>
+<precioTotalSinImpuesto>3.04</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.04</baseImponible>
+<valor>0.36</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X90120U</codigoPrincipal>
+<descripcion>ALBAHACA BONANZA 25G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.0010</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>0.97</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.97</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9606G3</codigoPrincipal>
+<descripcion>TOMILLO ENVASE EL SABOR 35G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.1231</precioUnitario>
+<descuento>0.06</descuento>
+<precioTotalSinImpuesto>2.06</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.06</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8S003P</codigoPrincipal>
+<descripcion>VINAGRE NATURAL EL SABOR 500ML</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.8036</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>0.71</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>0.71</baseImponible>
+<valor>0.09</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9603BP</codigoPrincipal>
+<descripcion>COMINO MOLIDO EL SABOR ENVASE 70G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.1692</precioUnitario>
+<descuento>0.07</descuento>
+<precioTotalSinImpuesto>2.10</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.10</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X89973N</codigoPrincipal>
+<descripcion>MOSTAZA MIEL PET GUSTADINA 330G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.6112</precioUnitario>
+<descuento>0.08</descuento>
+<precioTotalSinImpuesto>2.53</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>2.53</baseImponible>
+<valor>0.30</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9609QT</codigoPrincipal>
+<descripcion>SAZONADOR RES BADIA 184.3G FC02424</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.2895</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>3.19</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.19</baseImponible>
+<valor>0.38</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8375BI</codigoPrincipal>
+<descripcion>PAPRIKA NATURES HEART 50G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.3805</precioUnitario>
+<descuento>0.07</descuento>
+<precioTotalSinImpuesto>2.31</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>2.31</baseImponible>
+<valor>0.28</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY400IO</codigoPrincipal>
+<descripcion>LIMON DHOY 1KG</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.0714</precioUnitario>
+<descuento>0.06</descuento>
+<precioTotalSinImpuesto>2.01</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.01</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK0003</codigoPrincipal>
+<descripcion>MANZANA ROJA KG</descripcion>
+<cantidad>0.5900</cantidad>
+<precioUnitario>3.0159</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="KG"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.73</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY8V52R</codigoPrincipal>
+<descripcion>CUBETA DE HUEVOS GUADALUPE X 30 UNDS</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.5345</precioUnitario>
+<descuento>0.11</descuento>
+<precioTotalSinImpuesto>3.43</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>3.43</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY2000E</codigoPrincipal>
+<descripcion>BROCOLI UD</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.2453</precioUnitario>
+<descuento>0.01</descuento>
+<precioTotalSinImpuesto>0.24</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.24</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>51ARC1O</codigoPrincipal>
+<descripcion>SET VASO VIDRIO VIGNE LUMINARC 3PZS 31CL E5103</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>7.5145</precioUnitario>
+<descuento>4.51</descuento>
+<precioTotalSinImpuesto>10.52</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>10.52</baseImponible>
+<valor>1.26</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URP26</codigoPrincipal>
+<descripcion>MOLDE SILICONA PARA 15 CHOCOLATE RU0327</descripcion>
+<cantidad>3.0000</cantidad>
+<precioUnitario>1.0717</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>3.12</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.12</baseImponible>
+<valor>0.37</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5S20180</codigoPrincipal>
+<descripcion>SECADORA P/CAB REVLON C/ACCS GRIS RVDR5268/N1/N2</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>38.5408</precioUnitario>
+<descuento>1.16</descuento>
+<precioTotalSinImpuesto>37.38</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>37.38</baseImponible>
+<valor>4.49</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>57AM41E</codigoPrincipal>
+<descripcion>ADORNO METAL PORTA CUBIERTOS B50089</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.9764</precioUnitario>
+<descuento>0.12</descuento>
+<precioTotalSinImpuesto>3.86</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.86</baseImponible>
+<valor>0.46</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URG30</codigoPrincipal>
+<descripcion>ESPATULA SILICONA DE COCINA WEST POINT SA9483KT</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.9914</precioUnitario>
+<descuento>0.09</descuento>
+<precioTotalSinImpuesto>2.90</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>2.90</baseImponible>
+<valor>0.35</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URG4F</codigoPrincipal>
+<descripcion>BROCHA SILICONA Y MADERA RA2108</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.0079</precioUnitario>
+<descuento>0.06</descuento>
+<precioTotalSinImpuesto>1.95</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>1.95</baseImponible>
+<valor>0.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URG31</codigoPrincipal>
+<descripcion>CUCHARON PARA SERVIR PASTA WEST POINT SA9479KT</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.2267</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>3.13</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.13</baseImponible>
+<valor>0.38</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URG32</codigoPrincipal>
+<descripcion>CUCHARON PARA SERVIR WEST POINT HOME SA9480KT</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.1734</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>3.08</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.08</baseImponible>
+<valor>0.37</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URG33</codigoPrincipal>
+<descripcion>ESPUMADERA WEST POINT HOME SA9478KT</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.8185</precioUnitario>
+<descuento>0.11</descuento>
+<precioTotalSinImpuesto>3.70</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.70</baseImponible>
+<valor>0.44</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56URG34</codigoPrincipal>
+<descripcion>CUCHARON PARA SERVIR WEST POINT HOME SA9481KT</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.7641</precioUnitario>
+<descuento>0.11</descuento>
+<precioTotalSinImpuesto>3.65</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>3.65</baseImponible>
+<valor>0.44</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56TRV3H</codigoPrincipal>
+<descripcion>TRA JUEGO SARTENES CERAMICA NEGRO 3PZS 27899/458</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>28.7728</precioUnitario>
+<descuento>0.86</descuento>
+<precioTotalSinImpuesto>27.91</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>27.91</baseImponible>
+<valor>3.35</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>57ARC3B</codigoPrincipal>
+<descripcion>PORTA CUCHILLOS DE BAMBOO G09-B12L</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>18.3012</precioUnitario>
+<descuento>0.55</descuento>
+<precioTotalSinImpuesto>17.75</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>17.75</baseImponible>
+<valor>2.13</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>57ARC3D</codigoPrincipal>
+<descripcion>PORTA VAOS 4PCS G17-X238</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>4.1772</precioUnitario>
+<descuento>0.13</descuento>
+<precioTotalSinImpuesto>4.05</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>4.05</baseImponible>
+<valor>0.49</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>57IM11Z</codigoPrincipal>
+<descripcion>CALDERO AF 20CM A/A TV ORIG N3 5861021345-8043200</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>15.3400</precioUnitario>
+<descuento>0.46</descuento>
+<precioTotalSinImpuesto>14.88</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>14.88</baseImponible>
+<valor>1.79</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>1B1071P</codigoPrincipal>
+<descripcion>CIERRE IMPERMEABLE NEGRO PVC #7 70CM</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.4221</precioUnitario>
+<descuento>0.01</descuento>
+<precioTotalSinImpuesto>0.41</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>0.41</baseImponible>
+<valor>0.05</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56TRL0M</codigoPrincipal>
+<descripcion>TRA OLLA WOK LORETO 32CM 20252/032</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>26.5174</precioUnitario>
+<descuento>0.80</descuento>
+<precioTotalSinImpuesto>25.72</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>25.72</baseImponible>
+<valor>3.09</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56TRB0B</codigoPrincipal>
+<descripcion>TRA TABLA RECTANG P/ASADO 49X28X2.2CM 13214/052</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>25.7040</precioUnitario>
+<descuento>0.77</descuento>
+<precioTotalSinImpuesto>24.93</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>24.93</baseImponible>
+<valor>2.99</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5SIL00U</codigoPrincipal>
+<descripcion>SILLA PARA BAR NEGRA PP689</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>52.0845</precioUnitario>
+<descuento>3.13</descuento>
+<precioTotalSinImpuesto>101.04</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UNIDAD"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>101.04</baseImponible>
+<valor>12.12</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>51PC00P</codigoPrincipal>
+<descripcion>TAZA C/PLATO DIAMANTE 5238</descripcion>
+<cantidad>4.0000</cantidad>
+<precioUnitario>1.9475</precioUnitario>
+<descuento>0.23</descuento>
+<precioTotalSinImpuesto>7.56</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="SET"/>
+<detAdicional nombre="Bodega" valor="20"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>7.56</baseImponible>
+<valor>0.91</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="AGENTE DE RETENCION"> RESOLUCION NRO. NAC-DNCRASC20- 1 </campoAdicional>
+<campoAdicional nombre="Lugar Venta">CORAL SHYRIS</campoAdicional>
+<campoAdicional nombre="ICE FUNDA EXCENTO">Resolucion Nro. MPCEIP-SCIT-2020-0041-R</campoAdicional>
+<campoAdicional nombre="Codigo">9999999</campoAdicional>
+<campoAdicional nombre="Direccion">INAQUITO</campoAdicional>
+<campoAdicional nombre="Telefonos">0963523294</campoAdicional>
+<campoAdicional nombre="Deducible Alimentacion">99.42</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature915767" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo618812">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference URI="#Signature915767-SignedProperties147069" Id="SignedPropertiesID457044" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+uI+PsvUBO4c1URWNirG+IVZspc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1890557">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MM1Ldr8dKiUhHEJbXIZySZuP+Yk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-173786">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jgumKY9L21R5I8oh1B9rtgGVutc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue179768">
+s+ZZa4THj6HI549/i98A8ishwIjRfuPF9V8TnBRqXr170a5K2LNEJrtrGWWjr7FtsAGybPJdn4yp
+rQHjonU5QAut0e7x9A4N5/5yj5OuP/xkJ8ZewdxfNMXwfwUAEpcAoMxmzOGmRjaRoW5u0/QjCiiv
+sYwYQyMbDCOgVb7LmhOLY6rn3Vord3R46t6WzKoAcrk3RnYbvkj84lPMK2+K78WVDl9zhub7s7uP
+4c+hC963rqrWYAevaio+k9b8u1fY+2MQgP5268D7c+Kn2AMzf8VGLYRSCX71w1czhSFDdR6PsjcY
+apspMAjXxnbeIPfb80DE5R4wcWyaMXuex5kgSA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1890557">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ+zCCB+OgAwIBAgIEW2uiozANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDEwNTE3MzUzNloXDTI0MDEwNTE4MDUz
+NlowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDEwNDE3MTAkBgNVBAMTHUhVR08gQU5EUkVTIFFV
+RVpBREEgSVpRVUlFUkRPMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2iYhxnUI9ihU
+1pL2nClxXgRhr6lETBgZ2i6+HP5qYacoFU0Nri1IZetcFazzQ6WDTfw2gZhCFFgxdkeO8u9IavxU
+vhOzVsawvcHwYB3ix13TagcxdpRXz99zOeO93eQsQW7xz8x23/6U+D6vRN9zmaJDhsSsMkTM47Bw
+I4/eoemuqFaxc+QzjCDRp6eJN+FRIGW0uzn3IcWWIh/TQ975rl2RXBtw/3GviXec7CVdotsjnmLj
+8d/9rEjioYT/ZTSI7Faw6B2pJQPgM7JWvoNfO1vTERn7Xr5z4RuY9PM7m8J6uDNiYyulDEW1Qc53
+vOHZFuaFfszlpGZZLauNMLEWcwIDAQABo4IFIzCCBR8wCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDAuBgorBgEEAYKoOwMKBCATHkdFUkFSRE8gT1JUSVogRSBISUpPUyBDSUEg
+TFREQTAdBgorBgEEAYKoOwMLBA8TDTAxOTAwNzIwMDIwMDEwGgYKKwYBBAGCqDsDAQQMEwowMTA0
+NzE0MDE5MBsGCisGAQQBgqg7AwIEDRMLSFVHTyBBTkRSRVMwFwYKKwYBBAGCqDsDAwQJEwdRVUVa
+QURBMBkGCisGAQQBgqg7AwQECxMJSVpRVUlFUkRPMBcGCisGAQQBgqg7AwUECRMHR0VSRU5URTAv
+BgorBgEEAYKoOwMHBCETH0FWIENBUkxPUyBKVUxJTyBBUk9TRU1FTkEgS00gMTUwGQYKKwYBBAGC
+qDsDCAQLEwkwNDI1MDY2MzIwGQYKKwYBBAGCqDsDCQQLEwlHdWF5YXF1aWwwFwYKKwYBBAGCqDsD
+DAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAkBgNVHREEHTAb
+gRllY2FycmlvbkBnZXJhcmRvb3J0aXouY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciG
+gdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTQwNixjbj1BQyUyMEJBTkNPJTIw
+Q0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJ
+Q0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwl
+MjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3
+LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQG
+EwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8x
+JTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDE0MDYw
+KwYDVR0QBCQwIoAPMjAyMjAxMDUxNzM1MzZagQ8yMDI0MDEwNTE4MDUzNlowHwYDVR0jBBgwFoAU
+SKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFDcBXmngxX0qjbgH508HLpK1flHWMAkGA1Ud
+EwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAHAew0ED
+fexdvvOsnmc/i4s5rJ1Wqtg0hIrpNiQ6TjP506ltZeIvcjkPTS1Ycm6imUiM4j4bbTmTr0cv1OHx
+44nJykqrxGyF2Y9wkq+KkKsNsG0eCxDl+ByzK4jMygK8dnsNqcUDmeGK4Pj6MmSb3otUf4sgXcF6
+QcxgRSS7KxyUriWRtypgO5kh5Yk6BnpjVGbfC6EBVdCIRAhLV+lAfJoalGeUzgPXFZXhf6mhXEiH
+Ua1riaaCi+0bSxYtglt48Ntq09kjgaYQZdPPY87u8Yrrfwy2Lqq4+hQHY5t4jHr6sI+rv7XMmpXI
+AOi3wc00npXjW9ou60Dxgdus0u9QxJc1YuRg1qypqI/XUopQExlF5Mxxf2+J8fAw9c9XWRDvI9ly
+qtBk27GLwZf1LEvuZpBddWjp/dJgWYBFCMs+1/pccm5UTIoI8L2NMPd8HFBlquPsVuwys3/85OFw
+l9i5lgdh8O6l+Bak/uWkJ/Tyq4DQa2BCGCyhDu0WWKXaMeiTtEpvuWTHkwK2dArro6kBcAwlmc8f
+MFELSUfi8eFJQtQ/jrG+AhJxfhIkT5QpIQqL9PaJA82oH2EPWR2JtDMQgVCKfIGUTQlxKHy6Q7Lo
+VIEebJqbK0FhnOzKaBmOmjZrDz/Q/+CQNGL6uxyUotwMTIXsAwII3YdGjgne+bfWEuIe
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2iYhxnUI9ihU1pL2nClxXgRhr6lETBgZ2i6+HP5qYacoFU0Nri1IZetcFazzQ6WDTfw2gZhCFFgx
+dkeO8u9IavxUvhOzVsawvcHwYB3ix13TagcxdpRXz99zOeO93eQsQW7xz8x23/6U+D6vRN9zmaJD
+hsSsMkTM47BwI4/eoemuqFaxc+QzjCDRp6eJN+FRIGW0uzn3IcWWIh/TQ975rl2RXBtw/3GviXec
+7CVdotsjnmLj8d/9rEjioYT/ZTSI7Faw6B2pJQPgM7JWvoNfO1vTERn7Xr5z4RuY9PM7m8J6uDNi
+YyulDEW1Qc53vOHZFuaFfszlpGZZLauNMLEWcw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature915767-Object422759"><etsi:QualifyingProperties Target="#Signature915767"><etsi:SignedProperties Id="Signature915767-SignedProperties147069"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-03T17:40:44-04:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>q7RegCXlorhMLodIV6SUANQ3UqM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533780643</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-173786"><etsi:Description>Contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
