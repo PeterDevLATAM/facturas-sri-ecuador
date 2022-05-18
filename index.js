@@ -1,19 +1,17 @@
 const fs = require("fs");
+var parseString = require("xml2js").parseString;
 var files = fs.readdirSync("data/");
-
-var xml2js = require("xml2js");
-var parser = new xml2js.Parser();
-
 const resultData = [];
 
 files.map((file) => {
-  fs.readFile(`data/${file}`, "utf-8", (err, data) => {
+   fs.readFile(`data/${file}`, "utf-8", (err, data) => {
     if (err) {
       throw err;
     }
     //Parse data to JSON
-    parser.parseStringPromise(data).then(function (result) {
-      parser.parseStringPromise(result).then(function (result) {
+    parseString(data, function (err, result) {
+      // Extract inner XML data
+      parseString(result.autorizacion.comprobante, function (err, result) {
         const fechaEmision = result.factura.infoFactura[0].fechaEmision[0];
         let dirEstablecimiento = "NO DIR";
         if (result.factura.infoFactura[0].dirEstablecimiento) {
@@ -40,5 +38,9 @@ files.map((file) => {
     });
   });
 });
+setTimeout(() => {
+    console.table(resultData)
+  }, 1000);
 
-  console.log(resultData);
+
+
