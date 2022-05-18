@@ -1,10 +1,11 @@
 const fs = require("fs");
 var parseString = require("xml2js").parseString;
+var json2xls = require("json2xls");
 var files = fs.readdirSync("data/");
 const resultData = [];
 
 files.map((file) => {
-   fs.readFile(`data/${file}`, "utf-8", (err, data) => {
+  fs.readFile(`data/${file}`, "utf-8", (err, data) => {
     if (err) {
       throw err;
     }
@@ -25,13 +26,15 @@ files.map((file) => {
           result.factura.infoFactura[0].totalConImpuestos[0].totalImpuesto
             .length > 1
         ) {
-          sinIva =
+          sinIva = Number(
             result.factura.infoFactura[0].totalConImpuestos[0].totalImpuesto[1]
-              .baseImponible[0];
+              .baseImponible[0]
+          );
         }
-        conIva =
+        conIva = Number(
           result.factura.infoFactura[0].totalConImpuestos[0].totalImpuesto[0]
-            .baseImponible[0];
+            .baseImponible[0]
+        );
         const data = { fechaEmision, dirEstablecimiento, conIva, sinIva };
         resultData.push(data);
       });
@@ -40,7 +43,5 @@ files.map((file) => {
 });
 setTimeout(() => {
     console.table(resultData)
-  }, 1000);
-
-
-
+  fs.writeFileSync("data.xlsx", json2xls(resultData), "binary");
+}, 1000);
